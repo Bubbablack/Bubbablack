@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: we must imagine sisuphus happy
 
 <img src ='https://github-readme-stats.vercel.app/api?username=Bubbablack&&show_icons=true&title_color=ffffff&icon_color=4da3fb&text_color=ffffff&bg_color=0d1117&hide_border=True' >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbablack)](https://github.com/anuraghazra/github-readme-stats)
