@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my last project
 - 📫 How to reach me: Kevin.mntambo@gmail.com
 - ⚡ Fun fact: we must imagine sisuphus happy
-- [I'm an inline-style link]()
+- [I'm an inline-style link](https://github.com/Bubbablack/Portfolio)
 
 <img src ='https://github-readme-stats.vercel.app/api?username=Bubbablack&&show_icons=true&title_color=c9d1d9&icon_color=4da3fb&text_color=ffffff&exclude_repo=repo3,repo3&bg_color=0d1117&hide_border=True&count_private=true' >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbablack&&bg_color=0d1117&title_color=c9d1d9&hide_border=True&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
