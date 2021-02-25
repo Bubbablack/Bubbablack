@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I am a Data Scientist
-- 🌱 I hold a national certificate in information technology
-- 👯 I have experiance in using the agile and scrum framework in the development process
-- 💬 I have  experience as a data analyst and web development
+- 🔭 A Data Scientist
+- 🌱 Qualification: National Certificate in Information Technology
+- 👯 Experiance in using the agile and scrum framework in the development process
+- 💬 Experience as a data analyst and in full stack web development
 - ⚡ I enjoy automation and scripting
 - ✨ Check out my work [here.](https://github.com/Bubbablack/Portfolio)
 -  📫 The quickest way to reach me: Kevin.mntambo@gmail.com
