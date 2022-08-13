@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Pasionate about technology, and having a meaningful impact in my comunity.
-- ⚡ I am Interested in automation, machine learning, backend and low-level architecture.
+- 🌱 Passionate about technology, and having a meaningful impact in my community.
+- ⚡ I am Interested in automation, machine learning, backend, and low-level architecture.
 - ✨ Check out my work [here.](https://github.com/Bubbablack/Portfolio)
 
 ### My Stack
