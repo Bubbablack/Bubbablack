@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### My Stack
 ![](https://img.shields.io/badge/Python-Language-blue)
-![](https://img.shields.io/badge/C#-Language-blue)
+![](https://img.shields.io/badge/C-Language-blue)
 ![](https://img.shields.io/badge/Java-Language-blue)
 ![](https://img.shields.io/badge/Javascript-Language-blue)
 ![](https://img.shields.io/badge/HTML5-Language-blue)
