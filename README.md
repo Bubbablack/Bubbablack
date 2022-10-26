@@ -6,12 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Passionate about technology, and having a meaningful impact in my community.
-- ⚡ I am Interested in automation, machine learning, backend, and low-level architecture.
-- ✨ Check out some cool stuff I've done [here.](https://github.com/Bubbablack/vacine)
+- 🌱 I am a Software Engineering student.
+- ⚡ I am Interested in full stack development, but also know a little bit of data science.
+- ✨ My latest project is a website that helps track the number of people it would need get fully vacinated for south africa to reach herd immunity, check it out  [here.](https://github.com/Bubbablack/vacine)
 
 ### My Stack
 ![](https://img.shields.io/badge/Python-Language-blue)
+![](https://img.shields.io/badge/C#-Language-blue)
 ![](https://img.shields.io/badge/Java-Language-blue)
 ![](https://img.shields.io/badge/Javascript-Language-blue)
 ![](https://img.shields.io/badge/HTML5-Language-blue)
@@ -20,6 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Matplotlib-Library-red)
 ![](https://img.shields.io/badge/Seaborn-Library-red)
 ![](https://img.shields.io/badge/Scipy-Library-red)
+![](https://img.shields.io/badge/.NET-Framework-orange)
 ![](https://img.shields.io/badge/Django-Framework-orange)
 ![](https://img.shields.io/badge/NodeJS-RuntimeEnv-orange)
 ![](https://img.shields.io/badge/Pygame-Framework-orange)
