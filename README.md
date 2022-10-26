@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🌱 I am a Software Engineering student.
 - ⚡ I am Interested in full stack development, but also know a little bit of data science.
-- ✨ My latest project is a website that tries to predict when would South Africa will reach herd immunity against covid19, check it out  [here.](https://github.com/Bubbablack/vacine)
+- ✨ My latest project is a website that tries to predict when South Africa will reach herd immunity against covid19, check it out  [here.](https://github.com/Bubbablack/vacine)
 
 ### My Stack
 ![](https://img.shields.io/badge/Python-Language-blue)
